@@ -1,0 +1,5 @@
+Hello, World.
+This is a test input file.
+With UTF-8 encoding
+and Chinese Codes.
+这是一段中文测试事例。

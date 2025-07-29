@@ -18,6 +18,8 @@ int main()
 {
     string str;
     cin >> str;
+    // cout<< str + 41;
+    // return 0;
     nameDiamond(str);
 }
 void nameDiamond(string str)
